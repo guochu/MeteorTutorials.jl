@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+*/*checkpoint*
+.DS_Store
+data/
+result/
+*.txt
+*.json
+*.npz
+*.h5
+*.csv
+*.xlsx
+docs/build/
